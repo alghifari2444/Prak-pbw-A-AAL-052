@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Prak DW 1</title>
+</head>
+<style>
+    h1{
+    color: blueviolet;
+    }
+    p{
+    color: blue;
+    }
+</style>
+<body>
+    <h1>Profil Mahasiswa</h1>
+    <h2>Nama Mahasiswa: Fabian Adiputra</h2>
+    <p style="color: rgb(66, 132, 207);"> Mahasiswa Informatika yang sedang mempelajari desain web</p>
+    <p>Hobi: Editing Video</p>
+    <p>Program Studi: Teknik Informatika</p>
+    <p>Catatan: Saya senang mengedit video di premier pro</p>
+    <img src="/image.png" height="100%"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNDB4kHlSQzSadAuroUK25o5DjVuoVnlTA3f5Qqxv6m6J0fBJTXusH2NO&s=10" height="300px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3383g-sRg8kP3aeIXSLpIT2gC4ugRt3ZRa55nU0LzYlhgR86N7SjXa4&s=10" alt="Aku Raja Image" height="300px"/>
+    
+
+</body>
+</html>
